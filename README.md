@@ -28,4 +28,6 @@ We used this simulation to observe how this problem is inversely correlated to p
 
 The figure shows Alleles of two different genes, and how the frequency of the Alleles (percentage of individuals in the population with that Allele) will change across generations.
 
+The "blue" Allele goes extinct after about 40 generations, and by generation 80, all members of the population possess the orange Allele.
+
 <img width="640" height="480" alt="genetic_drift" src="https://github.com/user-attachments/assets/e6381145-5a20-4d93-91ac-3099cd151c24" />
